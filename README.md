@@ -8,7 +8,8 @@ The website is built using GitHub Pages and focuses on simplicity, readability, 
 Live Website
 
 You can view the live project here:
-👉 https://raulsouza7.github.io
+👉 [https://raulsouza7.github.io
+](https://raulsouza7.github.io/github.io/)
 
 Purpose
 
